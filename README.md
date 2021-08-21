@@ -3,6 +3,9 @@ Deployed a simple smart contract on Ropsten Ethereum
 
 This SimpleAdd smart contract has two functions: `getNumber()` and `increase()`. there is a integer initialized as 0 in the contract. `getNumber()` shows that integer and needs no trasaction. `increase()` increases the integer by 1 and needs one transaction everytime called.
 
+![deploy smart contract on Ropsten Ethereum](https://user-images.githubusercontent.com/33891839/130310567-64cbaafa-b446-4ff8-a65d-6b9048e851a4.JPG)
+
+
 # Steps
 1. Use chrome extension __MetaMsk__ and create a new account and connect to `Ropsten TESTNET`
 2. Get __Test Ether__ from the Ropsten Faucet so that you have gas to deploy the smart contract. I use this [https://faucet.ropsten.be/](https://faucet.ropsten.be/).
